@@ -1,36 +1,36 @@
-# user = "JFKMMMM"
-# print(len(user))
+user = "JFKMMMM"
+print(len(user))
 
-# num_chars = len("santa")
+num_chars = len("santa")
 
-# alphabet = "abcdefghijklmnopqrstuvwxyz"
-# print(alphabet[0],
-#       alphabet[1], 
-#       alphabet[7], sep="\n")
+alphabet = "abcdefghijklmnopqrstuvwxyz"
+print(alphabet[0],
+      alphabet[1], 
+      alphabet[7], sep="\n")
 
-# word1= "july"
-# word2 = "Aug"
-# word3 = "Sep"
-# statement = word1 + " " + word2 + " " + "The best month is "+ word3
-# print(statement)
+word1= "july"
+word2 = "Aug"
+word3 = "Sep"
+statement = word1 + " " + word2 + " " + "The best month is "+ word3
+print(statement)
 
-# print(f"{2**2=}")
-# print(f"{3*3+9**3=}")
+print(f"{2**2=}")
+print(f"{3*3+9**3=}")
 
 # Ask the user for their name and age, then print:
-# name = input("Enter your name:")
-# age = input("Enter your age:")
-# print(f"Hello {name}, you are {age} years old")
+name = input("Enter your name:")
+age = input("Enter your age:")
+print(f"Hello {name}, you are {age} years old")
 
-# number = "jan"
-# print(f" {number:s}")
+number = "jan"
+print(f" {number:s}")
 
-# my_str = "http://reddit.com/r/python"
-# print(my_str[10:-5])
+my_str = "http://reddit.com/r/python"
+print(my_str[10:-5])
 
-# print(f"{'Studio Jan':20} {'Rate':5}")
-# print("-" * 30)
-# print(f"")
+print(f"{'Studio Jan':20} {'Rate':5}")
+print("-" * 30)
+print(f"")
 
 # Ask for a product name, price, and quantity, then pr  int something like: You bought 3 notebooks at $4.50 each.
 product_name = input("Enter the product name:")
